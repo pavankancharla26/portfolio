@@ -17,10 +17,10 @@
 - <p align='justify'> Generated 2.5 million records of both malicious and legitimate DDoS traffic by creating 15 types of attacks by using tools like Hping3, GoldenEye, Slowhttptest, and Ostinato. </p>
 
 
-**Working Student in Internal Quality Management  @ Vaillant-Group GmbH (April 2023 - December 2023_)**
-<p align='justify'>Utilized Pyspark, Python, and Pandas to analyze large amounts of service data.</p>
+**Working Student in Data Analysis  @ Vaillant-Group GmbH (April 2023 - December 2023_)**
+- <p align='justify'>Utilized Pyspark, Python, and Pandas to analyze large amounts of service data.</p>
 
-**Cybersecurity Analyst - Tata Consultancy Services (TCS) (_April 2019 - November 2021_)**
+**Cybersecurity Analyst @ Tata Consultancy Services (TCS) (_April 2019 - November 2021_)**
 - <p align='justify'> Utilizing programs like Metasploit and Nmap, I conducted network penetration testing for customers, increasing system resilience by 35%. Delivered detailed reports and presentations to stakeholders, outlining results and recommendations. </p>
 - <p align='justify'> Executed Web Service, Mobile, Cloud and Web Application Penetration tests using proxy tools such as Burp Suite and Soap UI, resulting in a 30% increase in vulnerability detection and mitigation. </p>
 
