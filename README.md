@@ -2,7 +2,7 @@
 
 #### Data Analyst | M.Sc. Web and Data Science, University of Koblenz, Germany.
 
-<p align='justify'>A Certified Ethical Hacker (CEH V12) and Experienced cyber security professional with expertise in vulnerability identification, data analysis and effective solution implementation. Proficient in penetration testing, Threat Analysis data modeling, and machine learning techniques. Skilled in utilizing tools like Metasploit, Nmap, Wireshark and Python. Seeking to leverage my industrial and academic background to excel in the field of cyber security.</p>
+<p align='justify'>A Certified Ethical Hacker (CEH V12) and Experienced cyber security professional with expertise in vulnerability identification, data analysis, and effective solution implementation. Proficient in penetration testing, Threat Analysis data modeling, and machine learning techniques. Skilled in utilizing tools like Metasploit, Nmap, Wireshark, and Python. Seeking to leverage my industrial and academic background to excel in the field of cyber security.</p>
 
 ---
 
@@ -12,22 +12,22 @@
 
 ## Work Experience
 
-**Master Thesis : Development and Classification of DDoS Attack Log Dataset through Proxmox Integration and Machine Learning Algorithms(_June2023 - June2024_)**
+**Master Thesis: Development and Classification of DDoS Attack Log Dataset through Proxmox Integration and Machine Learning Algorithms(_June2023 - June2024_)**
 - <p align='justify'> Implemented a virtualized environment with ten Ubuntu Virtual Machines on Proxmox to simulate DDoS attacks. </p>
 - <p align='justify'> Generated 2.5 million records of both malicious and legitimate DDoS traffic by creating 15 types of attacks by using tools like Hping3, GoldenEye, Slowhttptest, and Ostinato. </p>
 
 
-**Working Student in Data Analysis  @ Vaillant-Group GmbH (April 2023 - December 2023_)**
+**Working Student in Data Analysis  @ Vaillant-Group GmbH (_April 2023 - December 2023_)**
 - <p align='justify'>Utilized Pyspark, Python, and Pandas to analyze large amounts of service data.</p>
 
 **Cybersecurity Analyst @ Tata Consultancy Services (TCS) (_April 2019 - November 2021_)**
 - <p align='justify'> Utilizing programs like Metasploit and Nmap, I conducted network penetration testing for customers, increasing system resilience by 35%. Delivered detailed reports and presentations to stakeholders, outlining results and recommendations. </p>
-- <p align='justify'> Executed Web Service, Mobile, Cloud and Web Application Penetration tests using proxy tools such as Burp Suite and Soap UI, resulting in a 30% increase in vulnerability detection and mitigation. </p>
+- <p align='justify'> Executed Web Service, Mobile, Cloud, and Web Application Penetration tests using proxy tools such as Burp Suite and Soap UI, resulting in a 30% increase in vulnerability detection and mitigation. </p>
 
 
 ## Projects
-**Manual Penteration Testing**
-- <p align='justify'>Performed Manual Penetration Testing using Proxy tools like Burp Suite</p>
+**Manual Penetration Testing**
+- <p align='justify'>Performed timebound Manual Penetration Testing using Proxy tools like Burp Suite</p>
 - <p align='justify'> Burp Suite | SQL Map | Echo | Nmap </p>
 
 ## Certifications
