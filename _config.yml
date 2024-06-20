@@ -1,6 +1,6 @@
 title: Pavan Kumar Reddy Kancharla
 description: [Cyber Security Engineer]
-logo: /profile.png?raw=true
+logo: "/profile.png?raw=true"
   <a href="mailto:pavankumarreddykancharla@gmail.com">pavankumarreddykancharla@gmail.com</a>
 # remote_theme: pages-themes/hacker@v0.2.0
 theme: jekyll-theme-minimal
