@@ -1,14 +1,3 @@
 title: Pavan Kumar Reddy Kancharla
 logo: "/profile.jpg?raw=true" 
-description: > # your text below (remove <br> elements if you don't need line breaks)
- Cyber Security Engineer
-  <br><br>
-  <a href="mailto:pavankumarreddykancharla@gmail.com">pavankumarreddykancharla@gmail.com</a>
-  <br>
-  <br>
-  <a href="https://www.linkedin.com/in/pavan-kancharla">LinkedIn Profile</a>
-  <br> 
-  <br>
-  <a href="https://www.xing.com/profile/pavan_kancharla">Xing Profile</a>
-  <br>
 theme: jekyll-theme-minimal
