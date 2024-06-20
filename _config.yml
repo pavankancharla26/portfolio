@@ -7,8 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/pavan-kancharla/">LinkedIn Profile</a>
   <br><br>
-  <a href="https://www.xing.com/profile/pavan_kancharla">Xing Profile</a> 
-  <br><br>
 theme: jekyll-theme-minimal
 #remote_theme: pages-themes/minimal@v0.2.0
 #theme: jekyll-theme-dinky
