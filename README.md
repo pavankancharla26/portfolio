@@ -12,7 +12,7 @@
   <img src='https://jacobriggs.io/tools/app/web/upload/large/3_eedab2dbcde47a63f847af0a612d1f8d.png' alt="Burp Suite" width='auto' height="55">
   <img src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/08/image-8.png?fit=1000%2C348&ssl=1" alt="OWASP" width="100" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1024px-Kali_Linux_2.0_wordmark.svg.png" alt="Khali_Linux" width='auto' height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Tenable%2C_Inc.logo.png" alt="Tenable" width="100" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Tenable%2C_Inc.logo.png" alt="Tenable" width="110" height="40"/>
   <img src='https://vigilant.blob.core.windows.net/assets/images/big-iso-logo-new.png' height='50' width='auto' alt="ISO 27001">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
 </p>
