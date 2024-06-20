@@ -1,5 +1,11 @@
 title: Pavan Kumar Reddy Kancharla
-description: [Cyber Security Engineer]
-logo: "/profile.png?raw=true"
-# remote_theme: pages-themes/hacker@v0.2.0
+logo: "/profile.png?raw=true" 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Cyber Security Engineer
+   <br><br>
+  <a href="pavankumarreddykancharla@gmail.com">pavankumarreddykancharla@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/pavan-kancharla/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.xing.com/profile/pavan_kancharla">Xing Profile</a> 
 theme: jekyll-theme-minimal
