@@ -6,7 +6,17 @@
 
 ---
 
-### Technical Skills: 
+### Technical Skills:
+<p align='justify'>
+
+  <img src='https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png' alt="Burp Suite" width="80" height="40">
+  <img src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/08/image-8.png?fit=1000%2C348&ssl=1" alt="OWASP" width="auto" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1024px-Kali_Linux_2.0_wordmark.svg.png" alt="Khali_Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Tenable%2C_Inc.logo.png" alt="Tenable" width="auto" height="40"/>
+  <img src='https://vigilant.blob.core.windows.net/assets/images/big-iso-logo-new.png' height='40' width='auto' alt="ISO 27001">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
+</p>
+
 <strong align='justify'> Burp Suite, Wireshark, Nmap, Metasploit, Python, OWASP, Khali Linux, Windows, Proxmox, C/C+, AWS Security, Tenable, Soap UI, Splunk, Microsoft Azure, CloudTrail, ISO 27001 </strong>
 
 
