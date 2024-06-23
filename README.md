@@ -47,7 +47,7 @@ enhancing internal operations and addressing client needs effectively. </p>
 
 ## Projects
 **Manual Penetration Testing**
-- <p align='justify'>Performed timebound Manual Penetration Testing using Proxy tools like Burp Suite</p>
+- <p align='justify'>Performed timebound Manual Penetration Testing using Proxy tools like Burp Suite. <a href="https://github.com/pavankancharla26/Penetration-Testing/blob/8dd470cbae62dbd8b83570a395ea1dbc47d0878f/Penetration%20Testing%20Report.pdf">Detailed Report</a> </p>
 - <p align='justify'> Burp Suite | SQL Map | Echo | Nmap </p>
 
 ## Certifications
