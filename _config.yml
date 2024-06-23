@@ -7,4 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/pavan-kancharla/">LinkedIn Profile</a>
   <br><br><br>
+  github:
+  is_project_page: false
 theme: jekyll-theme-minimal
