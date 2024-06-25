@@ -30,7 +30,7 @@
 - <p align='justify'> Presented clear and actionable insights from the predictive modeling process, contributing to network security against DDoS threats. </p>
 
 
-**Working Student in Data Analysis  @ Vaillant-Group GmbH (_April 2023 - December 2023_)**
+**Working Student in Data Analysis(Internal Quality Management)  @ Vaillant-Group GmbH (_April 2023 - December 2023_)**
 - <p align='justify'> Utilized Pyspark, Python, and Pandas to analyze large amounts of service data. </p>
 - <p align='justify'> Worked with a team to create and deploy use cases in the Data Bricks environment, resulting in a 40% improvement in data quality and efficiency. </p>
 - <p align='justify'>	Automated data cleaning procedures were implemented in effect, which resulted in a 
@@ -46,6 +46,12 @@ enhancing internal operations and addressing client needs effectively. </p>
 
 
 ## Projects
+**Hack The Box: Headless Assessment**
+- <p align='justify'>Conducted a comprehensive penetration test on the Headless machine from Hack The Box. Utilized various tools and techniques to identify vulnerabilities, gain access, and escalate privileges. Prepared and presented a detailed report on the findings. </p>
+
+**Skills Demonstrated**
+- <p align='justify'> Reconnaissance and Directory Enumeration | Exploitation of XSS Vulnerabilities | Reverse Shell Execution | Privilege Escalation </p>
+- <p align='justify'> Burp Suite | Nmap | Gobuster | Python | Netcat </p><br>
 **Manual Penetration Testing**
 - <p align='justify'>Performed timebound Manual Penetration Testing using Proxy tools like Burp Suite. <a href="https://github.com/pavankancharla26/Penetration-Testing/blob/8dd470cbae62dbd8b83570a395ea1dbc47d0878f/Penetration%20Testing%20Report.pdf">Detailed Report</a> </p>
 - <p align='justify'> Burp Suite | SQL Map | Echo | Nmap </p>
