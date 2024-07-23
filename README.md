@@ -41,7 +41,7 @@
 - <p align='justify'> Executed Web Service, Mobile, Cloud, and Web Application Penetration tests using proxy tools such as Burp Suite and Soap UI, resulting in a 30% increase in vulnerability detection and mitigation. </p>
 - <p align='justify'> The network security posture of the organization increased by 20% as an outcome of the deployment of vulnerability scanners like the Tenable tool for network scanning </p>
 - <p align='justify'> Collaborated within a Center of Excellence team and obtained extensive training in 
-SIEM, Network Security, and Endpoint Security to demonstrate expertise in 
+SIEM, and SOC departments to demonstrate expertise in 
 enhancing internal operations and addressing client needs effectively. </p>
 
 
