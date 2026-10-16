@@ -49,7 +49,7 @@
 
 📊 Working Student in Data Analysis
 
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Internal_Quality_Management-red?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Internal_Quality_Management-purple?style=for-the-badge)
 
 **Working Student in Data Analysis (Internal Quality Management) @ Vaillant Group GmbH**<br>
 *April 2023 – December 2023*
@@ -60,7 +60,7 @@
 
 🔍 Cybersecurity Analyst
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security_Analysis-purple?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security_Analysis-red?style=for-the-badge)
 
 
 **Cybersecurity Analyst @ Tata Consultancy Services (TCS)**
