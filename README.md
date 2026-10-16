@@ -8,12 +8,14 @@
 
 ### Technical Skills:
 <p align='justify'>
-  
+  <img src="Cortex-logo.webp" alt="Cortex" width="auto" height="40">
+  <img src="Proofpoint_Logo.png" alt="Proofpoint" width="auto" height="40">
+  <img src="Khali_Linux_Logo.png" alt="Khali_Linux" width="auto" height="40">
   <img src="burp_suite_proxies_Logo.png" alt="Burp Suite" width="auto" height="55">
   <img src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/08/image-8.png?fit=1000%2C348&ssl=1" alt="OWASP" width="100" height="50"/>
-   <img src="Khali_Linux_Logo.png" alt="Khali_Linux" width="auto" height="40">
+  <img src="Khali_Linux_Logo.png" alt="Khali_Linux" width="auto" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Tenable%2C_Inc.logo.png" alt="Tenable" width="110" height="40"/>
-  <img src='https://vigilant.blob.core.windows.net/assets/images/big-iso-logo-new.png' height='50' width='auto' alt="ISO 27001">
+  <img src="ISO27001_Logo.png" alt="ISO27001" width="auto" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
 </p>
 
