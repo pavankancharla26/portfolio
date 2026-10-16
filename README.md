@@ -58,7 +58,13 @@
 - <p align='justify'>	Automated data cleaning procedures were implemented in effect, which resulted in a 
 90% reduction in data cleaning time and an increase in total data analysis productivity. </p>
 
-**Cybersecurity Analyst @ Tata Consultancy Services (TCS) (_April 2019 - November 2021_)**
+🔍 Cybersecurity Analyst
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security_Analysis-purple?style=for-the-badge)
+
+
+**Cybersecurity Analyst @ Tata Consultancy Services (TCS)**
+*April 2019 – November 2021*
 - <p align='justify'> Utilizing programs like Metasploit and Nmap, I conducted network penetration testing for customers, increasing system resilience by 35%. Delivered detailed reports and presentations to stakeholders, outlining results and recommendations. </p>
 - <p align='justify'> Executed Web Service, Mobile, Cloud, and Web Application Penetration tests using proxy tools such as Burp Suite and Soap UI, resulting in a 30% increase in vulnerability detection and mitigation. </p>
 - <p align='justify'> The network security posture of the organization increased by 20% as an outcome of the deployment of vulnerability scanners like the Tenable tool for network scanning </p>
