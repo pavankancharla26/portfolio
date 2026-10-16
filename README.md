@@ -25,7 +25,7 @@
 
 ### ⚙️ Information Security Specialist
 
-![Information Security](https://img.shields.io/badge/Information_Security-Cyber Security-green?style=for-the-badge)
+![Information Security](https://img.shields.io/badge/Information_Security-Cyber_Security-green?style=for-the-badge)
 
 **Information Security Specialist @ Pfenning Logistics GmbH**  
 *September 2024 – Present*
