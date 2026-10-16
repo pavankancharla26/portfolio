@@ -30,7 +30,7 @@
 - <p align='justify'> Implemented a secure password management solution on a Debian server to manage credentials for more than 50 users. </p>
 - <p align='justify'> Developed an internal security dashboard using Claude AI to centralize global security event information and improve security visibility.</p>
 
-**Master Thesis: Development and Classification of DDoS Attack Log Dataset through Proxmox Integration and Machine Learning Algorithms(_June 2023 - June 2024_)**
+** 🎓 Master Thesis: Development and Classification of DDoS Attack Log Dataset through Proxmox Integration and Machine Learning Algorithms(_June 2023 - June 2024_)**
 - <p align='justify'> Implemented a virtualized environment with ten Ubuntu Virtual Machines on Proxmox to simulate DDoS attacks. </p>
 - <p align='justify'> Generated 2.5 million records of both malicious and legitimate DDoS traffic by creating 15 types of attacks by using tools like Hping3, GoldenEye, Slowhttptest, and Ostinato. </p>
 - <p align='justify'> Captured and processed packet data using Wireshark and CICflow Meter, expanding it across 83 features in CSV format. </p>
@@ -57,9 +57,10 @@
 
 **Skills Demonstrated**
 - <p align='justify'> Reconnaissance and Directory Enumeration | Exploitation of XSS Vulnerabilities | Reverse Shell Execution | Privilege Escalation </p>
-- <p align='justify'> Burp Suite | Nmap | Gobuster | Python | Netcat </p><br>
+- <p align='justify'> Burp Suite | Nmap | Gobuster | Python | Netcat </p>
+
 **Manual Penetration Testing**
-- <p align='justify'>Performed timebound Manual Penetration Testing using Proxy tools like Burp Suite. <a href="https://github.com/pavankancharla26/Penetration-Testing/blob/8dd470cbae62dbd8b83570a395ea1dbc47d0878f/Penetration%20Testing%20Report.pdf">Detailed Report</a> </p>
+- <p align='justify'>Performed time-bound Manual Penetration Testing using Proxy tools like Burp Suite. <a href="https://github.com/pavankancharla26/Penetration-Testing/blob/8dd470cbae62dbd8b83570a395ea1dbc47d0878f/Penetration%20Testing%20Report.pdf">Detailed Report</a> </p>
 - <p align='justify'> Burp Suite | SQL Map | Echo | Nmap </p>
 
 ## Certifications
