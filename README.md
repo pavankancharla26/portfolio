@@ -23,7 +23,14 @@
 
 ## Work Experience
 
-**Master Thesis: Development and Classification of DDoS Attack Log Dataset through Proxmox Integration and Machine Learning Algorithms(_June2023 - June2024_)**
+**Information Security Specialist @ Pfenning Logistics GmbH (_September 2024 - Present_)**
+- <p align='justify'> Conducted an ISO 27001 gap analysis, identifying and addressing more than 20 security control gaps. </p>
+- <p align='justify'> Deployed and managed Cortex XDR on Windows and Linux endpoints and servers. Investigated security incidents and reduced incident response time by 30%.</p>
+- <p align='justify'> Investigated phishing attacks and security threats using Microsoft Defender and managed employee phishing simulation campaigns through Proofpoint.</p>
+- <p align='justify'> Implemented a secure password management solution on a Debian server to manage credentials for more than 50 users. </p>
+- <p align='justify'> Developed an internal security dashboard using Claude AI to centralize global security event information and improve security visibility.</p>
+
+**Master Thesis: Development and Classification of DDoS Attack Log Dataset through Proxmox Integration and Machine Learning Algorithms(_June 2023 - June 2024_)**
 - <p align='justify'> Implemented a virtualized environment with ten Ubuntu Virtual Machines on Proxmox to simulate DDoS attacks. </p>
 - <p align='justify'> Generated 2.5 million records of both malicious and legitimate DDoS traffic by creating 15 types of attacks by using tools like Hping3, GoldenEye, Slowhttptest, and Ostinato. </p>
 - <p align='justify'> Captured and processed packet data using Wireshark and CICflow Meter, expanding it across 83 features in CSV format. </p>
@@ -32,8 +39,8 @@
 
 
 **Working Student in Data Analysis(Internal Quality Management)  @ Vaillant-Group GmbH (_April 2023 - December 2023_)**
-- <p align='justify'> Utilized Pyspark, Python, and Pandas to analyze large amounts of service data. </p>
-- <p align='justify'> Worked with a team to create and deploy use cases in the Data Bricks environment, resulting in a 40% improvement in data quality and efficiency. </p>
+- <p align='justify'> Utilized PySpark, Python, and Pandas to analyze large amounts of service data. </p>
+- <p align='justify'> Worked with a team to create and deploy use cases in the Databricks environment, resulting in a 40% improvement in data quality and efficiency. </p>
 - <p align='justify'>	Automated data cleaning procedures were implemented in effect, which resulted in a 
 90% reduction in data cleaning time and an increase in total data analysis productivity. </p>
 
