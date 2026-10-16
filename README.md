@@ -23,7 +23,12 @@
 
 ## Work Experience
 
-**Information Security Specialist @ Pfenning Logistics GmbH (_September 2024 - Present_)**
+### ⚙️ Information Security Specialist
+
+![Information Security](https://img.shields.io/badge/Information_Security-Security_Operations-blue?style=for-the-badge)
+
+**Information Security Specialist @ Pfenning Logistics GmbH**  
+*September 2024 – Present*
 - <p align='justify'> Conducted an ISO 27001 gap analysis, identifying and addressing more than 20 security control gaps. </p>
 - <p align='justify'> Deployed and managed Cortex XDR on Windows and Linux endpoints and servers. Investigated security incidents and reduced incident response time by 30%.</p>
 - <p align='justify'> Investigated phishing attacks and security threats using Microsoft Defender and managed employee phishing simulation campaigns through Proofpoint.</p>
