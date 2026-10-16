@@ -51,8 +51,6 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Internal_Quality_Management-green?style=for-the-badge)
 
-!Data Analysis
-
 **Working Student in Data Analysis (Internal Quality Management) @ Vaillant Group GmbH**
 *April 2023 – December 2023*
 - <p align='justify'> Utilized PySpark, Python, and Pandas to analyze large amounts of service data. </p>
