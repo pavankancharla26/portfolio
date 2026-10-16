@@ -60,7 +60,7 @@
 
 🔍 Cybersecurity Analyst
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security_Analysis-red?style=for-the-badge)
+![Cyber_Security](https://img.shields.io/badge/Cybersecurity-Security_Analysis-red?style=for-the-badge)
 
 
 **Cybersecurity Analyst @ Tata Consultancy Services (TCS)**
