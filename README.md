@@ -63,7 +63,7 @@
 ![Cyber_Security](https://img.shields.io/badge/Cybersecurity-Security_Analysis-red?style=for-the-badge)
 
 
-**Cybersecurity Analyst @ Tata Consultancy Services (TCS)**
+**Cybersecurity Analyst @ Tata Consultancy Services (TCS)**<br>
 *April 2019 – November 2021*
 - <p align='justify'> Utilizing programs like Metasploit and Nmap, I conducted network penetration testing for customers, increasing system resilience by 35%. Delivered detailed reports and presentations to stakeholders, outlining results and recommendations. </p>
 - <p align='justify'> Executed Web Service, Mobile, Cloud, and Web Application Penetration tests using proxy tools such as Burp Suite and Soap UI, resulting in a 30% increase in vulnerability detection and mitigation. </p>
