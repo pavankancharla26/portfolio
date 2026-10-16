@@ -17,7 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
 </p>
 
-<strong align='justify'> Burp Suite, Wireshark, Nmap, Metasploit, Python, OWASP, Khali Linux, Windows, Proxmox, C/C+, AWS Security, Tenable, Soap UI, Splunk, Microsoft Azure, CloudTrail, ISO 27001 </strong>
+<strong align='justify'> Cortex, Proofpoint, ISO 27001, Microsoft Defender, Burp Suite, Wireshark, Nmap, Metasploit, Python, OWASP, Kali Linux, Windows, Proxmox, C/C+, AWS Security, Tenable, Soap UI, Splunk, Microsoft Azure, CloudTrail </strong>
 
 
 ## Work Experience
