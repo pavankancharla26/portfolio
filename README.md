@@ -30,7 +30,7 @@
 - <p align='justify'> Implemented a secure password management solution on a Debian server to manage credentials for more than 50 users. </p>
 - <p align='justify'> Developed an internal security dashboard using Claude AI to centralize global security event information and improve security visibility.</p>
 
-** 🎓 Master Thesis: Development and Classification of DDoS Attack Log Dataset through Proxmox Integration and Machine Learning Algorithms(_June 2023 - June 2024_)**
+**🎓Master Thesis: Development and Classification of DDoS Attack Log Dataset through Proxmox Integration and Machine Learning Algorithms(_June 2023 - June 2024_)**
 - <p align='justify'> Implemented a virtualized environment with ten Ubuntu Virtual Machines on Proxmox to simulate DDoS attacks. </p>
 - <p align='justify'> Generated 2.5 million records of both malicious and legitimate DDoS traffic by creating 15 types of attacks by using tools like Hping3, GoldenEye, Slowhttptest, and Ostinato. </p>
 - <p align='justify'> Captured and processed packet data using Wireshark and CICflow Meter, expanding it across 83 features in CSV format. </p>
