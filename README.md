@@ -1,8 +1,8 @@
 ## Portfolio
 
-### Cyber Security Analyst | M.Sc. Web and Data Science, University of Koblenz, Germany.
+### Cyber Security Analyst | Information Security Specialist | Certified Ethical Hacker
 
-<p align='justify'>A Certified Ethical Hacker (CEH V12) and Experienced cyber security professional with expertise in vulnerability identification, data analysis, and effective solution implementation. Proficient in penetration testing, Threat Analysis data modeling, and machine learning techniques. Skilled in utilizing tools like Metasploit, Nmap, Wireshark, and Python. Seeking to leverage my industrial and academic background to excel in the field of cyber security.</p>
+<p align='justify'>A Cybersecurity Analyst / Information Security Specialist with over 5 years of professional experience in Security Operations, penetration testing, vulnerability management, incident response, endpoint security, and ISO 27001. Extensive experience with Cortex XDR, Microsoft Defender, Proofpoint, Tenable, Burp Suite, Nmap, Metasploit, and Wireshark. Certified Ethical Hacker (CEH v12) with an MSc in Web and Data Science, as well as hands-on experience in security monitoring, security assessments, and the automation of cybersecurity processes.</p>
 
 ---
 
