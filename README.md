@@ -47,7 +47,7 @@
 - <p align='justify'> Analyzed the dataset using Linear and Non-Linear machine learning algorithms like Random Forest and Logistic Regression to predict and classify the DDoS traffic patterns. </p>
 - <p align='justify'> Presented clear and actionable insights from the predictive modeling process, contributing to network security against DDoS threats. </p>
 
-📊 Working Student in Data Analysis
+### 📊 Working Student in Data Analysis
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Internal_Quality_Management-purple?style=for-the-badge)
 
@@ -58,7 +58,7 @@
 - <p align='justify'>	Automated data cleaning procedures were implemented in effect, which resulted in a 
 90% reduction in data cleaning time and an increase in total data analysis productivity. </p>
 
-🔍 Cybersecurity Analyst
+### 🔍 Cybersecurity Analyst
 
 ![Cyber_Security](https://img.shields.io/badge/Cybersecurity-Security_Analysis-red?style=for-the-badge)
 
