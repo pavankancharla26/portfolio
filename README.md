@@ -13,7 +13,7 @@
   <img src="Proofpoint_Logo.png" alt="Proofpoint" width="auto" height="40">
   <img src="Tenable_Logo.webp" alt="Tenable" width="auto" height="40">
   <img src="Khali_Linux_Logo.png" alt="Kali_Linux" width="auto" height="40">
-  <img src="burp_suite_proxies_Logo.png" alt="Burp Suite" width="auto" height="55">
+  <img src="burp_suite_proxies_Logo.png" alt="Burp Suite" width="auto" height="80">
   <img src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/08/image-8.png?fit=1000%2C348&ssl=1" alt="OWASP" width="100" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
 </p>
