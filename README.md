@@ -51,7 +51,7 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Internal_Quality_Management-green?style=for-the-badge)
 
-**Working Student in Data Analysis (Internal Quality Management) @ Vaillant Group GmbH**<n>
+**Working Student in Data Analysis (Internal Quality Management) @ Vaillant Group GmbH**<br>
 *April 2023 – December 2023*
 - <p align='justify'> Utilized PySpark, Python, and Pandas to analyze large amounts of service data. </p>
 - <p align='justify'> Worked with a team to create and deploy use cases in the Databricks environment, resulting in a 40% improvement in data quality and efficiency. </p>
