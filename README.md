@@ -47,8 +47,14 @@
 - <p align='justify'> Analyzed the dataset using Linear and Non-Linear machine learning algorithms like Random Forest and Logistic Regression to predict and classify the DDoS traffic patterns. </p>
 - <p align='justify'> Presented clear and actionable insights from the predictive modeling process, contributing to network security against DDoS threats. </p>
 
+📊 Working Student in Data Analysis
 
-**Working Student in Data Analysis(Internal Quality Management)  @ Vaillant-Group GmbH (_April 2023 - December 2023_)**
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Internal_Quality_Management-green?style=for-the-badge)
+
+!Data Analysis
+
+**Working Student in Data Analysis (Internal Quality Management) @ Vaillant Group GmbH**
+*April 2023 – December 2023*
 - <p align='justify'> Utilized PySpark, Python, and Pandas to analyze large amounts of service data. </p>
 - <p align='justify'> Worked with a team to create and deploy use cases in the Databricks environment, resulting in a 40% improvement in data quality and efficiency. </p>
 - <p align='justify'>	Automated data cleaning procedures were implemented in effect, which resulted in a 
